@@ -62,5 +62,28 @@ Os usuários desse sistema podem ser classificados em:
 ![Diagrama de Casos de Uso](docs/image3.png)
 
 ### 3.2. Diagramas de Sequência
+#### Cadastrar Usuário
+![Sequência - Cadastrar](docs/image10.png)
+
+#### Logar no Sistema
+![Sequência - Logar](docs/image8.png)
+
+#### Consultar Horários
+![Sequência - Consultar Horários](docs/image4.png)
+
+#### Reservar Quadra
+![Sequência - Reservar Quadra](docs/image5.png)
 
 ### 3.3. Diagramas de Atividades
+
+#### Cadastro de Usuário
+![Atividades - Cadastro](docs/image2.png)
+
+#### Autenticação (Login)
+![Atividades - Login](docs/image7.png)
+
+#### Consulta de Horários
+![Atividades - Consulta](docs/image1.png)
+
+#### Reservar Quadra
+![Atividades - Reservar Quadra](docs/image9.png)
